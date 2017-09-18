@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Utility;System;
+Comment=ScreenShot
+Comment[zh_CN]=屏幕截图工具
+Exec=/home/rekols/engine-screenshot/build/engine-screenshot
+Icon=deepin-screenshot
+Name=Engine ScreenShot
+Name[zh_CN]=屏幕截图
+StartupNotify=true
+TryExec=/home/rekols/engine-screenshot/build/engine-screenshot
+Type=Application
